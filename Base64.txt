@@ -1,0 +1,6 @@
+Ilias Abdeghani Idrissi – r0886271
+Challenges – Base64
+
+Oplossing:
+QmFzZTY0IGlzIGVyZyBoYW5kaWcgb20gdGVrc3Qgem9uZGVyIHNwZWNpYWxlIGthcmFrdGVycyAiJsOpIicowqfDqCHDp8OgKS0iIGRvb3IgdGUgc3R1cmVu
+Dit is geen geheim, enkel Base64 geëncodeerde tekst

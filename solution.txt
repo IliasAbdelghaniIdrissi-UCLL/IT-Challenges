@@ -1,0 +1,65 @@
+Images - creators:
+
+1.	dr. Bjarne Stoustrup: maken en verderbouwen van C++
+2.	Guido van Rossum: maker van Python
+3.	Linus Torvalds: maker van Linux
+4.	James Gosling: maker en hoofd designer van java
+
+Riddles - movies:
+
+1. In Bruges
+2. Buried
+3. Inglourious Basterds
+4. Snowpiercer
+5. Mad Max: Fury Road
+6. Flight
+7. The Dark Knight
+8. Fargo
+9. The Assassination of Jesse James by the Coward Robert Ford
+10. A Clockwork Orange
+11. The Silence of the Lambs
+12. The Green Mile
+13. Black Swan
+14. Interstellar
+15. Seven Psychopaths
+16. Magnolia
+17. Moon
+18. Trainspotting
+19. Inception
+20. Predestination
+21. There Will Be Blood
+22. Sophie's Choice
+23. The Human Centipede (First Sequence)
+24. Face/Off
+25. The Prestige
+26. Il buono, il brutto, il cattivo
+27. Monty Python and the Holy Grail
+28. Indiana Jones and the Last Crusade
+29. Speed
+30. 127 Hours
+31. This Is Spinal Tap
+32. The Little Prince
+33. The Cabin in the Woods
+34. Rubber
+35. The Lawnmower Man
+36. Brazil
+37. Once Upon a Time in America
+38. Perfume: The Story of a Murderer
+39. Goya's Ghosts
+40. Mr. & Mrs. Smith
+41. Apollo 13
+42. Mulan
+43. The Matrix Reloaded
+
+Search:
+
+1. Lego League
+2. 2015
+3. Bij het opzoeke van mezelf zie ik veel informatie over Ayman Abdelghani Idrissi, een expert in judo.
+4. Meudon Paris
+5. China
+6. Dit is zeer verassend en toont hoe ver technologie is gekomen. Manier van gebruik bepaalt hoe gevaarlijk het kan zijn.
+
+Shell:
+
+1. ls 

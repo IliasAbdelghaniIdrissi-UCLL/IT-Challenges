@@ -1,0 +1,76 @@
+Ilias Abdeghani Idrissi – r0886271
+Challenges – Linux
+
+Oplossing opgave 1:
+touch private
+chmod -R 740 private
+
+touch public 
+chmod -R 664 public
+
+Oplossing opgave 2:
+touch bigFiles.txt 
+sudo find / -type f -size +512b home/ilias/Documents/CHALLENGES/bigFiles.txt
+Oplossing opgave 3:
+touch data.dat
+awk '{print $2,$5}' data.dat > summary.dat
+
+Oplossing opgave 4:
+touch a.bf
+touch b.bf
+touch c.bf
+cat *.bf | tr -d "\n" >> abc.bf
+cat abc.bf
+
+
+
+
+
+
+Oplossing opgave 5:
+mkdir source
+touch a.txt
+touch b.txt
+touch c.txt
+touch d.txt
+touch e.txt
+mkdir target
+cp
+
+Oplossing opgave 6:
+touch secret.txt
+tr 'abcdefghijklmnopurstuvwxyz' 'bgimojstwzcrhuadvlfxqeynpk' < secret.txt > encrypt.txt 
+cat encrypt.txt
+
+Oplossing opgave 7:
+touch original.txt
+shasum original.txt > hash.txt
+
+Oplossing opgave 8:
+find . | grep 'js$' >home/luke/challenges/challenge08/js-files.txt
+Oplossing opgave 9:
+touch imput.txt
+cat input.txt | grep -v '^#' input.txt > output.txt
+
+
+
+
+
+
+Oplossing opgave 10:
+touch file001
+touch file002
+touch file003
+sudo apt-get install mmv
+mmv -v '*' '#1b'
+
+Oplossing opgave 11:
+truncate -s 139  a.txt
+truncate -s 7867  b.txt
+truncate -s 468  c.txt
+find -maxdepth 1 -type f -printf '%s %f\n' > sizes.dat
+
+
+
+
+

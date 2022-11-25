@@ -1,0 +1,6 @@
+Ilias Abdeghani Idrissi – r0886271
+Challenges – Regex
+
+1.	( . ) \ 1 \ 1
+2.	 / d { 2 } + / d { 2 } + / d { 4 } 
+
